@@ -1,19 +1,6 @@
-# Closer-Look-At
+# Closer-Look-At-functions
 
-a
-c
-l
-so
-e
-r
-l
-o
-o
-k
-a
-t
-fu
-n
-c
-tio
-ns
+Functions of JavaScript
+Learning from Udemy Course
+
+
